@@ -7,14 +7,19 @@ For Windows:
 
 <bash>
 |----name------value-----|
+ 
 OSG_PATH     E:\jing_zhong\osg-install
+ 
 OSG_FILE_PATH %OSG_PATH%\data;%OSG_PATH%\data\Images
+ 
  </bash>
  
  2、Then add the value(%OSG_PATH%\bin;) to the environment variable which named Path.
  
  <bash>
 |----name------value-----|
+ 
 Path ...;%OSG_PATH%\bin;
+ 
  </bash>
  
